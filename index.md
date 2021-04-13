@@ -1,6 +1,10 @@
 ## Welcome to Yijin's Pages
 
-Hi, my name is Yijin Xiang. I am currently working as a Biostatistician at Department of Pediatrics, at Emory Univeristy. I have a Master of Public Health in Epidemiology, with interest in longitudinal data analysis, clinical studiees, epigenetics studies, and prediction modeling. I started my academic journey as an undergraduate nursing student who loved working with babies and did research concerning the growth of preterm infants, from which I learned that I wanted to contribute to the health of children. 
+Hi, my name is Yijin Xiang. I am currently working as a Biostatistician at Department of Pediatrics, at Emory Univeristy. 
+
+I have a Master of Public Health in Epidemiology, with interest in longitudinal data analysis, clinical studies, epigenetics studies, and prediction modeling. 
+
+I started my academic journey as an undergraduate nursing student who loved working with babies and did research concerning the growth of preterm infants, from which I learned that I wanted to contribute to the health of children. 
 
 ### Markdown
 
